@@ -1,0 +1,6 @@
+- Don't be an asshole.
+- Don't submit resources you gain monetary value from.
+- Don't submit resources you created, or your employer created.
+- Absolutely no affiliate links, referers or anything but direct links to resources.
+- Content may be removed at any time. 
+- The project can be freely forked, if you disagree with something create your own.
