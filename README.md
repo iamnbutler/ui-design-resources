@@ -1,5 +1,7 @@
 # UI Design Resources
 
+_This list is just getting started, feel free to [contribute](https://raw.githubusercontent.com/iamnbutler/ui-design-resources/main/CONTRIBUTING.md) to it to help it get off the ground._
+
 ## Techniques:
 - [Visual Design Techniques](https://anthonyhobday.com/sideprojects/visualtechniques/) - [Anthony Hobday](https://twitter.com/hobdaydesign)
 
