@@ -14,7 +14,7 @@ Please note that contributors should not add links to their own content. No link
 
 ## Code of Conduct
 
-This project has a [Code of Conduct](coming-soon). By participating in this project, you agree to abide by its terms.
+This project has a [Code of Conduct](https://raw.githubusercontent.com/iamnbutler/ui-design-resources/main/CONTRIBUTING.md). By participating in this project, you agree to abide by its terms.
 
 ## Contact
 
