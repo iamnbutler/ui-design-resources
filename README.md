@@ -16,6 +16,11 @@ Find high quality fonts from great designers & foundries.
 - [PangramPangram](https://pangrampangram.com/)
 - [Displaay](https://displaay.net/)
 
+## Icons, Assets
+
+- [SVG Repo](https://www.svgrepo.com/) - Open-licensed SVG Vector and Icons
+- [Font Awsesome](https://fontawesome.com/) - High quality icons, has been around for many years.
+
 ## More Resources
 More lists like this.
 
