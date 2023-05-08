@@ -31,7 +31,9 @@ Find high quality fonts from great designers & foundries.
 
 ### Examples
 
-- [Adobe Spectrum](https://spectrum.adobe.com/) - Great documentation, like [Color System](https://spectrum.adobe.com/page/color-system/) and [Design Tokens](https://spectrum.adobe.com/page/design-tokens/). A good place to start if thinking about building a design system.
+- [Adobe Spectrum](https://spectrum.adobe.com/) 
+  - Great documentation, like [Color System](https://spectrum.adobe.com/page/color-system/) and [Design Tokens](https://spectrum.adobe.com/page/design-tokens/). 
+  - A good place to start if thinking about building a design system.
 - [Carbon Design System](https://carbondesignsystem.com/)
 
 ## Misc
