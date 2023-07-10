@@ -6,11 +6,10 @@ _This list is just getting started, feel free to [contribute](https://raw.github
 - [Designing a Comprehensive Color System
 ](https://www.rethinkhq.com/videos/designing-a-comprehensive-color-system-for-lyft) - [Linda Dong](https://twitter.com/lindadong)
 
-## Techniques:
+## UI Design:
+- [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design) - [rauno](https://rauno.me/)
 - [Visual Design Techniques](https://anthonyhobday.com/sideprojects/visualtechniques/) - [Anthony Hobday](https://twitter.com/hobdaydesign)
 - UI Detail Breakdowns - Derek Briggs: [Switch](https://twitter.com/PixelJanitor/status/1628068543261732864) · [Shadow Borders](https://twitter.com/PixelJanitor/status/1623358514440859649)
-
-## Critique:
 - [UI Design Critiques](https://brianlovin.com/crit) - [Brian Lovin](https://twitter.com/brian_lovin)
 
 ## Typefaces
