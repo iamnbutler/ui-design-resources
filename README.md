@@ -22,9 +22,9 @@ Find high quality fonts from great designers & foundries.
 
 ## Icons, Assets
 
-- [SVG Repo](https://www.svgrepo.com/) - Open-licensed SVG Vector and Icons
 - [Lucide](https://lucide.dev/icons/) - Copy, paste & go with no fuss. Has packages for many languages.
-- [Font Awsesome](https://fontawesome.com/) - High quality icons, has been around for many years.
+- More Icons: [Phosphor](https://phosphoricons.com/), [Radix](https://www.radix-ui.com/icons), [Font Awsesome](https://fontawesome.com/)
+- [SVG Repo](https://www.svgrepo.com/) - Open-licensed SVG Vector and Icons
 
 ## Design Systems
 
@@ -43,14 +43,17 @@ Find high quality fonts from great designers & foundries.
 
 Developer tools oriented towards higher quality design
 
-- [React Wrap Balancer](https://react-wrap-balancer.vercel.app/)
+- [React Wrap Balancer](https://react-wrap-balancer.vercel.app/) - tame widows & orphans in your web typography
 
-## Misc
+## Readings
 
 - [Good things don't have to take time](https://patrickcollison.com/fast) - via @adamwathan
-- [Short design books I recommend](https://anthonyhobday.com/blog/20230101.html) - via @hobdaydesign
+- [https://designsystems.international/ideas/when-figma-starts-designing-us/](https://designsystems.international/ideas/when-figma-starts-designing-us/) - via ‪@runemadsen.com‬
+- [I’m getting fed up of making the rich, richer](https://bell.bz/im-getting-fed-up-of-making-the-rich-richer/) - via @bell.bz‬
+- [Our Interfaces Have Lost Their Senses](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses) - via ‪@wattenberger.com‬
 
 ## More Resources
 More lists like this.
 
 - [UX Design Resources & Recommendations](https://nlevin.medium.com/ux-design-recommendations-8de563c5fbfa) - [Noah Levin](https://twitter.com/nlevin)
+- [Short design books I recommend](https://anthonyhobday.com/blog/20230101.html) - via @hobdaydesign
